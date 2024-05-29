@@ -1,0 +1,31 @@
+.containerFooter {
+    display: flex;
+    justify-content: space-around;
+    padding: 0 20px;
+    background-color: #1d1d1d;
+    border-top: 1px solid #e0e0e0;
+    margin-top: 200px;
+    
+}
+
+
+.btn{
+    background-color: #1d1d1d;
+    border: none;
+    cursor: pointer;
+    color: #e8e8e8;
+    font-size: 16px;
+    padding: 50px 20px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.derecha{
+    color: #a73131;
+    align-content: center;
+}
+
+#title5{
+    align-content: start;
+}
+
